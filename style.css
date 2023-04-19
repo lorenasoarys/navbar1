@@ -19,6 +19,26 @@
     text-transform: uppercase;
     letter-spacing: 4px;
   }
+
+.text-map {
+    font-size: 30px;
+    color: #0abab5;
+    margin-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+      
+  }
+
+  .map {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+  }
   
   nav {
     display: flex;
